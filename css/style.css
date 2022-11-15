@@ -1,0 +1,14 @@
+#header{
+    background: #555555;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+button{
+    background-color: blue;
+    color: white;
+    margin-top:  20px ;
+}
+p{
+    margin-top: 10px;
+}
